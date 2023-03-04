@@ -1,3 +1,10 @@
+// File name = MAPD724_W2022-MidTerm-301293794
+//Author's name = Betrand Nyarko
+//StudentID = 301293794
+//Date = 4th March 2023
+//App description = This is a amil pilot game in landscape mode
+//Version information = 1
+
 import UIKit
 import SpriteKit
 import GameplayKit
